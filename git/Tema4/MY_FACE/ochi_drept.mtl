@@ -1,0 +1,22 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl Texture2.005
+Ns 15.686275
+Ka 0.000000 0.000000 0.000000
+Kd 0.448000 0.448000 0.448000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd fata_eyeR_hi.bmp
+
+newmtl Texture3.005
+Ns 15.686275
+Ka 0.000000 0.000000 0.000000
+Kd 0.448000 0.448000 0.448000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd fata_eyeR_lo.bmp
